@@ -17,10 +17,10 @@
 
 - 💬 Ask me about **NOTHING, i am bad at coding**
 
-- 📫 How to reach me **admin@auth.ink**
-
-<h3 align="left">Connect with me at [owlsec](https://discord.gg/owlsec)</h3>
-<p align="left">
+- 📫 How to reach me:
+- - admin@auth.ink
+- - [Owlsec](https://discord.gg/owlsec)
+- - [Discord Profile](https://discord.com/users/1070214656511189042)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
