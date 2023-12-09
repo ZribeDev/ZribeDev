@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **admin@auth.ink**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me at [owlsec](https://discord.gg/owlsec)</h3>
 <p align="left">
 </p>
 
