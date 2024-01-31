@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zribedev" alt="zribedev" /></a> </p>
 
-- 🔭 I’m currently working on [NovoLoader](https://github.com/novoloader/NovoLoaderPublic)
+- 🔭 I’m currently working on [NovoLoader](https://github.com/novocore/NovoLoaderPublic)
 
 - 🌱 I’m currently learning **Laravel**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZribeDev?tab=repositories](https://github.com/ZribeDev?tab=repositories)
 
-- 💬 Ask me about **NOTHING, i am bad at coding**
+- 💬 You need help with coding? DM me!
 
 - 📫 How to reach me:
 - - admin@auth.ink
