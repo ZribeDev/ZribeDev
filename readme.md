@@ -11,6 +11,8 @@
 
 - 🔭 I’m currently working on **FoodBounties**
 
+- 🔭 I’m currently working on [CloudPIP](https://github.com/ZribeDev/cloudpip)
+
 - 🔭 I’m currently working on [GitShit](https://github.com/ZribeDev/GitShit)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZribeDev?tab=repositories](https://github.com/ZribeDev?tab=repositories)
