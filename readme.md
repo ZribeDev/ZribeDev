@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zribedev" alt="zribedev" /></a> </p>
 
-- 🔭 I’m currently working on [NovoLoader](https://github.com/novocore/NovoLoaderPublic)
+
 
 - 🌱 I’m currently learning **Laravel**
 
 - 🔭 I’m currently working on **FoodBounties**
 
-- 🔭 I’m currently working on [CloudPIP](https://github.com/ZribeDev/cloudpip)
+- 🔭 I’m currently working on [NovoLoader](https://github.com/novocore/NovoLoaderPublic)
+  
+- 🔭 I’m currently working on [PteroSSH](https://github.com/ZribeDev/pterossh)
 
 - 🔭 I’m currently working on [GitShit](https://github.com/ZribeDev/GitShit)
 
