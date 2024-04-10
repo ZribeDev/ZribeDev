@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **FoodBounties**
 
-- 🔭 I’m currently working on the [NovoCore Organization]([https://github.com/NovoCore])
+- 🔭 I’m currently working on the [NovoCore Organization](https://github.com/NovoCore)
   
 - 🔭 I’m currently working on [PteroSSH](https://github.com/ZribeDev/pterossh)
 
