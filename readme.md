@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning **Laravel**
 
 - 🔭 I’m currently working on **FoodBounties**
-  
-- 🔭 I’m currently working on [PteroSSH](https://github.com/ZribeDev/pterossh)
 
 - 🔭 I’m currently working on [GitShit](https://github.com/ZribeDev/GitShit)
 
